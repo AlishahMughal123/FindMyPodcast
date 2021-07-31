@@ -7,7 +7,7 @@ You need to have python and pip downloaded
 
 Once downloaded you need to run the command:
  
-pip install selenium
+pip3 install -r requirements.txt
 
 once you run that command you should be good to go.
 
